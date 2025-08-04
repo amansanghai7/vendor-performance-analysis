@@ -54,10 +54,9 @@ The dataset is inspired by procurement data for a mid-sized retail company. It c
 
 | Tool | Purpose |
 |------|---------|
-| **SQL (PostgreSQL)** | To aggregate sales, purchase, and performance metrics by vendor. |
+| **SQL (SQLite)** | To aggregate sales, purchase, and performance metrics by vendor. |
 | **Python (Pandas, Matplotlib)** | For exploratory data analysis, correlation checks, and hypothesis testing. |
 | **Power BI** | To build interactive dashboards and present actionable insights. |
-| **Excel** | Used for quick summaries and QA of final outputs. |
 
 ---
 
@@ -130,4 +129,4 @@ One of my favorite insights:
 ---
 
 Thanks for checking this project out!  
-Feel free to [connect with me](#) if you’d like to discuss the analysis or offer feedback.
+Feel free to [connect with me](https://www.linkedin.com/in/aman-sanghai2003/) if you’d like to discuss the analysis or offer feedback.
